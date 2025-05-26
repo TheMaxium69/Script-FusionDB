@@ -1,7 +1,7 @@
 <?php
 
 // --- CONFIGURATION DU FICHIER ---
-$localDumpFile = 'gamenium_dump.sql'; // Votre fichier dump local
+$localDumpFile = 'gamenium_game.sql'; // Votre fichier dump local
 $outputSqlFile = 'gamenium_prod_sync.sql'; // Le fichier SQL généré pour la production
 
 // --- CONFIGURATION DE LA BASE DE DONNÉES DE PRODUCTION (OPTIONNEL) ---
